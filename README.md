@@ -16,5 +16,5 @@ Estudiante de Sistemas. Me gusta moverle a la PC, optimizar Windows y probar cos
 [![](https://visitcount.itsvg.in/api?id=sudoNks&icon=2&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@nkscode) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nkscode) 
 

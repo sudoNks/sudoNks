@@ -1,22 +1,19 @@
-<!-- BANNER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0D1117&height=200&section=header&text=sudoNks&fontColor=FFFFFF&fontSize=70&fontAlignY=35&desc=indie%20dev%20%C2%B7%20Free%20Fire%20PC%20tools&descAlignY=58&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/> <!-- TYPING TAGLINE --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Construyo+herramientas+para+Free+Fire+PC;C%23+%2F+.NET+8+%E2%80%A2+WPF+%E2%80%A2+WinAPI;Actualmente%3A+LyXel+v1.5+PRO&font=Fira+Code&center=true&width=520&height=40&color=D4AF37&vCenter=true&pause=1200&size=16" /> </p> <br>
+<!-- BANNER --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0D1117&height=200&section=header&text=sudoNks&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=indie%20developer&descAlignY=60&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/> <!-- TYPING TAGLINE --> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Herramientas+para+gamers+y+creadores+de+contenido;C%23+%2F+.NET+8+%E2%80%A2+WPF+%E2%80%A2+WinAPI;Actualmente%3A+LyXel+v1.5+PRO&font=Fira+Code&center=true&width=560&height=40&color=D4AF37&vCenter=true&pause=1200&size=16" /> </p> <br>
 
 ▸ whoami
 
 ```yaml
-name:        Shizuku
 handle:      sudoNks / @nks_array
 role:        indie developer · streamer
-location:    México
 current:     LyXel v1.5 PRO — WPF migration
-building:    tools for the Free Fire PC community
 aesthetic:   dark · minimal · gold accents
 ```
 
  <br>
 
-▸ Módulos activos
+▸ Proyecto activo
 
- <table> <tr> <td width="180"><img src="https://img.shields.io/badge/LyXel-D4AF37?style=for-the-badge&labelColor=0D1117"/></td> <td><code>scrcpy launcher</code></td> <td>Control de Android en PC optimizado para gaming y streaming</td> </tr> <tr> <td><img src="https://img.shields.io/badge/Stex_Core-D4AF37?style=for-the-badge&labelColor=0D1117"/></td> <td><code>macro runner</code></td> <td>Toggle de macros para emuladores con hooks WinAPI</td> </tr> <tr> <td><img src="https://img.shields.io/badge/Renta_Sheets-8B949E?style=for-the-badge&labelColor=0D1117"/></td> <td><code>webapp</code></td> <td>Sistema de gestión de inquilinos en Apps Script</td> </tr> </table> <br>
+ <table> <tr> <td width="210" align="center" valign="middle"> <img src="https://img.shields.io/badge/LyXel-v1.5_PRO-D4AF37?style=for-the-badge&labelColor=0D1117"/> <br><br> <code>scrcpy launcher</code> </td> <td valign="middle"> <b>Control de Android en PC</b> con interfaz WPF nativa.<br> Pensado para gamers y creadores de contenido que necesitan<br> rendimiento, latencia baja y una experiencia limpia.<br> <sub>Incluye módulos de optimización para Windows.</sub> </td> </tr> </table> <br>
 
 ▸ Stack
 

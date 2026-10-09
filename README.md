@@ -1,61 +1,62 @@
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:0D1117&height=200&section=header&text=sudoNks&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=indie%20developer&descAlignY=60&descSize=16&descColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-<!-- TYPING TAGLINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Herramientas+para+gamers+y+creadores+de+contenido;C%23+%2F+.NET+8+%2B+WPF+%2B+WinAPI&font=Fira+Code&center=true&width=560&height=40&color=D4AF37&vCenter=true&pause=1200&size=16" />
-</p>
-
-<br>
-
-▸ whoami
-
-```yaml
-handle:      sudoNks / @nks_array
-role:        indie developer · streamer
-current:     LyXel · scrcpy launcher
-aesthetic:   dark · minimal · gold accents
-```
-
-<br>
-
-▸ Proyecto activo
-
-<table><tr><td width="210" align="center" valign="middle"><img src="https://img.shields.io/badge/LyXel-v1.4-D4AF37?style=for-the-badge&labelColor=0D1117"/><br><code>scrcpy launcher</code></td><td valign="middle"><b>Control de Android en PC</b> con interfaz gráfica limpia.<br>Pensado para gamers y creadores de contenido que necesitan una experiencia simple y directa.<br><sub>GUI sobre scrcpy · gratuito · Windows 10/11</sub></td></tr></table>
-
-<br>
-
-▸ Stack
-
-```
-» lang         C#   ·   JavaScript   ·   PHP   ·   Java
-» framework    .NET 8   ·   WPF   ·   WinForms   ·   Bootstrap 5
-» db           MySQL   ·   Google Sheets API
-» focus        Windows tuning · system optimization · WinAPI
-```
-
-<br>
-
-▸ Stats
+<h2 align="center">🥀 Hey, soy Nks 🖤</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudoNks&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&hide=issues" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoNks&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9&langs_count=6" height="165"/>
+<b><i>Desarrollo herramientas para Windows y Android • Sistemas • Virtualización</i></b>
 </p>
 
-<br>
+<br/>
 
-▸ Conecta
+* [`🥀 LyXel`](https://github.com/sudoNks/Lyxel): muestra y controla tu Android desde la PC.
+* [`🥀 Sync_Lyx`](https://github.com/sudoNks/SyncLyx): instala y extrae APKs en emuladores Android.
+
+<br/>
+
+<h2 align="center">~ 🥀 𝓔𝓼𝓽𝓮 𝓼𝓸𝔂 𝔂𝓸 🥀 ~</h2>
+
+<img align="right" src="https://media.giphy.com/media/10ToEKrp3s99Fm/giphy.gif" width="260" alt="">
+
+- **Nombre:** Nks
+- **Me gusta:** la *Lycoris radiata* y Tokyo Ghoul
+- **Hobbies:** directos, tuning de Windows y virtualización
+- **Escuchando:** ♪ Unravel · TK from 凛として時雨
+
+<br clear="right"/>
+
+<h2 align="center">~ 🖤 𝓒𝓸𝓷𝓸𝓬𝓲𝓶𝓲𝓮𝓷𝓽𝓸𝓼 🖤 ~</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Nks_v1"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=D4AF37"/></a>
-  &nbsp;
-  <a href="https://tiktok.com/@nks_array"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=D4AF37"/></a>
-  &nbsp;
-  <a href="https://ko-fi.com/nks_array"><img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=D4AF37"/></a>
+  <img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=d7263d" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=d7263d" alt="C++">
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=d7263d" alt="C# / .NET">
+  <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=d7263d" alt="Java">
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=d7263d" alt="Python">
+  <img src="https://img.shields.io/badge/Windows-0d0d0d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Q3MjYzZCIgZD0iTTEgMWgxMC41djEwLjVIMXpNMTIuNSAxSDIzdjEwLjVIMTIuNXpNMSAxMi41aDEwLjVWMjNIMXpNMTIuNSAxMi41SDIzVjIzSDEyLjV6Ii8+PC9zdmc+" alt="Windows">
+  <img src="https://img.shields.io/badge/Android-0d0d0d?style=for-the-badge&logo=android&logoColor=d7263d" alt="Android">
+  <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=d7263d" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=d7263d" alt="Git">
 </p>
 
-<br>
+-------
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:D4AF37&height=80&section=footer" width="100%"/>
+<p align="center">
+<img src="https://media.giphy.com/media/K6S2ZBjTiorL9m1suV/giphy.gif" width="400" alt="">
+</p>
+
+-------
+
+<br/>
+
+`Yo 🖤 desarmar software`, curiosea mis repositorios si quieres ver lo que he hecho.
+
+<h2 align="center">~ 🥀 𝓖𝓻𝓪𝓬𝓲𝓪𝓼 𝓹𝓸𝓻 𝓵𝓮𝓮𝓻 🥀 ~</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/zzl2DaoxpigUj23OnS/giphy.gif" width="520" alt="">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Nks_v1">YouTube</a> ·
+  <a href="https://www.tiktok.com/@nks_array">TikTok</a> ·
+  <a href="https://discord.gg/CU5quVNyun">Discord</a> ·
+  <a href="https://ko-fi.com/nks_array">Ko-fi</a>
+</p>
